@@ -1,5 +1,7 @@
 # mongoose-soft
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kozzztya/mongoose-soft.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/kozzztya/mongoose-soft.svg?branch=master)](https://travis-ci.org/kozzztya/mongoose-soft)
 [![Coverage Status](https://coveralls.io/repos/github/kozzztya/mongoose-soft/badge.svg?branch=ci)](https://coveralls.io/github/kozzztya/mongoose-soft?branch=ci)
 
