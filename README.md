@@ -1,7 +1,7 @@
 # mongoose-soft
 
 [![Build Status](https://travis-ci.org/kozzztya/mongoose-soft.svg?branch=master)](https://travis-ci.org/kozzztya/mongoose-soft)
-[![Coverage Status](https://coveralls.io/repos/github/kozzztya/mongoose-soft/badge.svg?branch=ci)](https://coveralls.io/github/kozzztya/mongoose-soft?branch=ci)
+[![Coverage Status](https://coveralls.io/repos/github/kozzztya/mongoose-soft/badge.svg?branch=master)](https://coveralls.io/github/kozzztya/mongoose-soft?branch=master)
 
 Mongoose soft delete. I created it because other packages that I tested didn't work properly.
 
