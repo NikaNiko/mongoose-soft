@@ -8,8 +8,7 @@ Mongoose soft delete. I created it because other packages that I tested didn't w
 ## How it works
 
 `Model.remove()` was extended to set `deleted: true` without real removing.
-To methods `find`, `findOne`, `update`, `findOneAndUpdate`, `findOneAndRemove`
-were added middleware to show only data without `deleted: true`.
+Middleware was added to methods `find`, `findOne`, `update`, `findOneAndUpdate`, `findOneAndRemove` to show only data without `deleted: true`.
 
 ## Configuration
 
